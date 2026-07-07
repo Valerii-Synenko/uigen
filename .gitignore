@@ -1,0 +1,11 @@
+CLAUDE.md
+CLAUDE.local.md
+.env
+node_modules/
+.next/
+prisma/dev.db
+.DS_Store
+.idea/
+tsconfig.tsbuildinfo
+src/generated/prisma/libquery_engine-*.dylib.node
+src/generated/prisma/libquery_engine-*.so.node
