@@ -9,3 +9,4 @@ prisma/dev.db
 tsconfig.tsbuildinfo
 src/generated/prisma/libquery_engine-*.dylib.node
 src/generated/prisma/libquery_engine-*.so.node
+.claude/settings.local.json
